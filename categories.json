@@ -12,12 +12,12 @@
     "description": "Preguntas relacionadas con con países y ciudades del mundo."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Historia",
+    "description": "Preguntas relacionadas con hechos históricos."
   },
   {
     "category": "Programación",
-    "description": "Preguntas relacionadas con los distintos leguajes de programación."
+    "description": "Preguntas relacionadas con los leguajes de programación."
   },
   {
     "category": "Ciencia",
