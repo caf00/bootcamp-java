@@ -1,23 +1,23 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con dispositivos tecnológicos actuales."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Cocina",
+    "description": "Preguntas relacionadas con las diferentes cocinas del mundo y más allá."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con con países y ciudades del mundo."
   },
   {
     "category": "Cine",
     "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Programación",
+    "description": "Preguntas relacionadas con los distintos leguajes de programación."
   },
   {
     "category": "Ciencia",
