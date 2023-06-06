@@ -33,5 +33,12 @@
   "options": ["Marie Curie", "Isaac Newton", "Albert Einstein"],
   "answer": 2,
   "explanation": "Albert Einstein es el científico conocido por su teoría de la relatividad, que incluye la teoría especial de la relatividad y la teoría general de la relatividad. Estas teorías revolucionaron nuestra comprensión de cómo el espacio, el tiempo y la gravedad están relacionados. Isaac Newton fue un científico famoso por su teoría de la gravitación universal, pero la teoría de la relatividad de Einstein reemplazó y amplió esa comprensión. Marie Curie fue una científica conocida por sus investigaciones en el campo de la radiactividad, y Charles Darwin fue un naturalista conocido por su teoría de la evolución por selección natural. Sin embargo, ninguno de ellos formuló la teoría de la relatividad."
+  },
+  {
+  "category": "Geografía",
+  "question": "¿Cuál es el río más largo del mundo?",
+  "options": ["Misisipi-Misuri", "Nilo", "Amazonas"],
+  "answer": 2,
+  "explanation": "El río Amazonas es el río más largo del mundo. Se extiende a través de América del Sur, recorriendo aproximadamente 6.400 kilómetros desde su fuente en los Andes peruanos hasta su desembocadura en el océano Atlántico, en Brasil. El río Nilo es el segundo río más largo del mundo y atraviesa varios países del continente africano. El Yangtsé (Chang Jiang) es el río más largo de Asia y fluye a través de China. El sistema fluvial del Misisipi-Misuri es uno de los más grandes de América del Norte, pero no es considerado como un solo río continuo en términos de longitud."
   }
  ]
