@@ -4,11 +4,17 @@ public class DiscountCalculator {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
 
-        System.out.print("Ingrese el precio original del producto: ");
+        System.out.println("#############################################################################");
+        System.out.println("###                                                                       ###");
+        System.out.println("###             Ejercicio 3: Calculadora de descuento                     ###");
+        System.out.println("###                                                                       ###");
+        System.out.println("#############################################################################\n");
+
+        System.out.print("Ingresá el precio original del producto: ");
 
         double originalPrice =  keyboard.nextDouble();
 
-        System.out.print("Ingrese el porcentaje de descuento: ");
+        System.out.print("Ingresá el porcentaje de descuento: ");
 
         double discountRate =  keyboard.nextDouble();
 
