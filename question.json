@@ -1,7 +1,37 @@
-{
+[
+  {
   "category": "Historia",
   "question": "¿En qué año tuvo lugar la Revolución Francesa, uno de los eventos más influyentes en la historia moderna?",
   "options": ["1776", "1789", "1812"],
   "answer": 1,
   "explanation": "La Revolución Francesa comenzó en 1789 y tuvo un impacto significativo en la historia mundial. Fue un período de agitación política y social en Francia, que condujo al derrocamiento de la monarquía y al establecimiento de una república. La Revolución Francesa desencadenó cambios políticos y sociales profundos, incluyendo la abolición de la monarquía, la promulgación de la Declaración de los Derechos del Hombre y del Ciudadano, y la propagación de ideas revolucionarias por toda Europa. Las opciones restantes son fechas relacionadas con otros eventos históricos importantes, pero no corresponden al año de la Revolución Francesa."
-}
+  },
+  {
+  "category": "Tecnología",
+  "question": "¿Quién es el fundador de la empresa Tesla, conocida por la fabricación de automóviles eléctricos?",
+  "options": ["Jeff Bezos", "Mark Zuckerberg", "Elon Musk"],
+  "answer": 2,
+  "explanation": "Elon Musk es el fundador de la empresa Tesla, que es reconocida por su liderazgo en la fabricación de vehículos eléctricos y su contribución a la industria automotriz. Musk también es conocido por su participación en otras empresas tecnológicas como SpaceX, Neuralink y The Boring Company. Jeff Bezos es el fundador de Amazon, Mark Zuckerberg es el fundador de Facebook y Bill Gates es el cofundador de Microsoft."
+  },
+  {
+  "category": "Cocina",
+  "question": "¿Cuál de los siguientes ingredientes es esencial en la preparación de la salsa de pesto tradicional?",
+  "options": ["Albahaca", "Cilantro", "Romero"],
+  "answer": 0,
+  "explanation": "La salsa de pesto tradicional, originaria de la región italiana de Liguria, tiene como ingrediente principal la albahaca fresca. Esta salsa se prepara triturando hojas de albahaca fresca con otros ingredientes como piñones, ajo, queso parmesano o pecorino, y aceite de oliva. La albahaca le da su característico sabor y aroma a la salsa de pesto. El perejil, cilantro y romero son hierbas aromáticas utilizadas en otras recetas, pero no son ingredientes esenciales en la salsa de pesto tradicional."
+  },
+  {
+  "category": "Programación",
+  "question": "¿Qué lenguaje de programación fue creado por Guido van Rossum y se caracteriza por su legibilidad y simplicidad?",
+  "options": ["Python", "Java", "Ruby"],
+  "answer": 0,
+  "explanation": "Python es un lenguaje de programación creado por Guido van Rossum en la década de 1990. Se destaca por su sintaxis clara y legible, lo que facilita la comprensión y escritura del código. Python se ha vuelto muy popular en diversos campos, como desarrollo web, análisis de datos, inteligencia artificial y automatización. Java, C++ y Ruby también son lenguajes de programación conocidos, pero no fueron creados por Guido van Rossum y no se caracterizan específicamente por su legibilidad y simplicidad como lo hace Python."
+  },
+  {
+  "category": "Ciencia",
+  "question": "¿Cuál de los siguientes científicos es conocido por su teoría de la relatividad, que revolucionó nuestra comprensión del espacio, el tiempo y la gravedad?",
+  "options": ["Marie Curie", "Isaac Newton", "Albert Einstein"],
+  "answer": 2,
+  "explanation": "Albert Einstein es el científico conocido por su teoría de la relatividad, que incluye la teoría especial de la relatividad y la teoría general de la relatividad. Estas teorías revolucionaron nuestra comprensión de cómo el espacio, el tiempo y la gravedad están relacionados. Isaac Newton fue un científico famoso por su teoría de la gravitación universal, pero la teoría de la relatividad de Einstein reemplazó y amplió esa comprensión. Marie Curie fue una científica conocida por sus investigaciones en el campo de la radiactividad, y Charles Darwin fue un naturalista conocido por su teoría de la evolución por selección natural. Sin embargo, ninguno de ellos formuló la teoría de la relatividad."
+  }
+ ]
