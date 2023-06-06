@@ -6,7 +6,13 @@ public class DogAge {
 
         Scanner keyboard = new Scanner(System.in);
 
-        System.out.print("Ingrese la edad del perro: ");
+        System.out.println("#############################################################################");
+        System.out.println("###                                                                       ###");
+        System.out.println("###             Ejercicio 1: Calculadora de edad de perros                ###");
+        System.out.println("###                                                                       ###");
+        System.out.println("#############################################################################\n");
+
+        System.out.print("Ingresá la edad del perro: ");
 
         int dogAge = keyboard.nextInt();
 

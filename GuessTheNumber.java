@@ -10,7 +10,7 @@ public class GuessTheNumber {
 
         System.out.println("#############################################################################");
         System.out.println("###                                                                       ###");
-        System.out.println("###          Ejercicio 5: Juego de adivinar el número                     ###");
+        System.out.println("###            Ejercicio 5: Juego de adivinar el número                   ###");
         System.out.println("###                                                                       ###");
         System.out.println("#############################################################################\n");
 
