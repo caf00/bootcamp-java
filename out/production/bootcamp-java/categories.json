@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con dispositivos tecnológicos actuales."
+  },
+  {
+    "category": "Cocina",
+    "description": "Preguntas relacionadas con las diferentes cocinas del mundo y más allá."
+  },
+  {
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con con países y ciudades del mundo."
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas relacionadas con hechos históricos."
+  },
+  {
+    "category": "Programación",
+    "description": "Preguntas relacionadas con los leguajes de programación."
+  },
+  {
+    "category": "Ciencia",
+    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  }
+]
